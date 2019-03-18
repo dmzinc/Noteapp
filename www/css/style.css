@@ -1,0 +1,32 @@
+/*.butt-1{
+    
+}
+.card{
+
+    border: 2px;
+    border-radius: 20px;
+    height:150px;
+}
+
+.users{
+
+    width:150px;
+    float: left;
+}*/
+ons-select{
+    width: 90vw !important;
+}
+
+.back-button__icon{
+    fill:white!important
+}
+.page__background{
+ background-color:white;
+}
+      
+.card{
+        border-left: 6px solid lightcoral;
+        margin-left: 10px
+      }
+     
+      
